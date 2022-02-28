@@ -1,15 +1,15 @@
 
-# Sample Title
+# README Genarator
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+This project was developed to help facilitate the creation of a professional README file using command-line prompts.
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+The project was built for the Georgia Tech Coding Bootcamp.
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+The command-line prompts direct the creation of a README file that contains a description of the project, a table of contents, installation instructions, usage instructions and examples, credits to other contributors or tutorials, licenses, tests, and how to reach the creator for additional questions. 
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+This project taught me how to make a proper README file with all needed content, along with bolstering my confidence using node.js. 
 
 ## Table of Contents
 - [Description](README.md#description)
@@ -21,29 +21,29 @@
 - [Questions](README.md#questions)
 
 ## Installation
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+Coming Soon
 
 ## Usage
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+Coming Soon
 
 ## License
 MIT
 
 ## Contributors
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+
+
+
 
 ## Tests
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+Coming Soon
 
 ## Questions
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+ChanceSupcoe
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+https://github.com/ChanceSupcoe
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+chancesupcoe@gmail.com
 
- Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+Please feel free to reach out for questions concerning this or any of my projects using the above email address. 
