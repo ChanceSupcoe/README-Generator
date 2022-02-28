@@ -4,7 +4,7 @@ const fs = require('fs');
 const readmeGenerator = ({title, description1, description2, description3, description4, installation, usage, contributing1, contributing2, contributing3, license, test, questions1, questions2, questions3, questions4}) =>
 `
 # ${title}
-${license}
+![License](https://img.shields.io/badge/license-${license}-blue)
 
 ## Description
 ${description1}
@@ -16,19 +16,13 @@ ${description3}
 ${description4}
 
 ## Table of Contents
-- [Description](##description)
-
-- [Installation](##installation)
-
-- [Usage](##usage),
-
-- [License](##license)
-
-- [Contributors](##contributors)
-
-- [Tests](##tests)
-
--[Questions](##Questions)
+- [Description](README.md#description)
+- [Installation](README.md#installation)
+- [Usage](README.md#usage)
+- [License](README.md#license)
+- [Contributors](README.md#contributions)
+- [Tests](README.md#tests)
+- [Questions](README.md#questions)
 
 ## Installation
 ${installation}
@@ -115,7 +109,7 @@ inquirer
         type: 'list',
         name: 'license',
         message: 'Add license used.',
-        choices: ['MIT', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'CC0-1.0', 'CC-BY-4.0', 'CC-BY-SA-4.0', 'SIL Open Font License 1.1', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0', 'The Unlicense'],
+        choices: ['MIT', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'CC0-1.0', 'CC-BY-4.0', 'CC-BY-SA-4.0', 'SIL Open Font License 1.1', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0', 'The Unlicense', 'None'],
         },
         {
         type: 'input',
